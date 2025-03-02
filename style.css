@@ -10,7 +10,14 @@ header {
     color: white;
     padding: 20px;
 }
+h3{
+    align-items: center;
 
+}
+
+p{
+    align-items: center;
+}
 nav a {
     margin: 0 15px;
     color: white;
