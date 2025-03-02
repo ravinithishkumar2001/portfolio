@@ -5,6 +5,13 @@ body {
     padding: 0;
     text-align: center;
 }
+.certifications{
+    background: #f4f4f4;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    text-align: left;
+}
 
 header {
     text-align: center;
@@ -14,9 +21,17 @@ header {
 }
 .about{
     text-align: center;
+    background: #f4f4f4;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
 }
 .skill{
     text-align: left;
+    background: #f4f4f4;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
 }
 
 h3{
@@ -36,6 +51,7 @@ nav a {
 
 section {
     padding: 50px;
+    
 }
 
 .project {
